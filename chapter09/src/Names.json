@@ -1,0 +1,19 @@
+{
+  "names": {
+    "name1": {
+      "first": "John",
+      "last": "Doe",
+      "age": 25
+    },
+    "name2": {
+      "first": "Jane",
+      "last": "Smith",
+      "age": 30
+    },
+    "name3": {
+      "first": "Mike",
+      "last": "Johnson",
+      "age": 22
+    }
+  }
+}
